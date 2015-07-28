@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DuckMa WatchFace</string>
+    <string name="message">Branded DuckMa WatchFace</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">
+        To use the watch face on your watch you have to change the active face on your watch to "DuckMa WatchFace".
+        \nWith the watch face on your watch lit up, tap and hold just above the visible card until you feel the watch vibrate.
+        \nA carousel of watch faces will then show up, allowing you to swipe in either direction to view the available watch faces. Swipe until you find the watch face called "DuckMa WatchFace" and tap on it to select it.
+        \nIf you can\'t find the watch face called "DuckMa WatchFace" in the list try waiting a few minutes to let the app syncronize from your phone to your watch and try again.
+    </string>
+</resources>
