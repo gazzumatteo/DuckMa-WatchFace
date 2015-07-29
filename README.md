@@ -4,7 +4,7 @@ DuckMa WatchFace for Android Wear (Rounded)
 A simple and clean WatchFace wallpaper for your Rounded Android Wear ( Tested on LG G Watch R )
 Download the source code and open it as an Android Studio Project.
 
-Download on Google Play Store<br />
+Download it on Google Play Store<br/>
 <a href="https://play.google.com/store/apps/details?id=com.duckma.watchface" target="_blank">![Download from Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)</a>
 
 Release Notes
