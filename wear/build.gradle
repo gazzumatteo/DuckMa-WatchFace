@@ -2,15 +2,15 @@ apply plugin: 'com.android.application'
 
 
 android {
-    compileSdkVersion 22
-    buildToolsVersion "23.0.0 rc3"
+    compileSdkVersion 23
+    buildToolsVersion "23.0.0"
 
     defaultConfig {
         applicationId "com.duckma.watchface"
         minSdkVersion 21
-        targetSdkVersion 22
-        versionCode 4
-        versionName "1.0"
+        targetSdkVersion 23
+        versionCode 5
+        versionName "1.1"
     }
 
     buildTypes {
@@ -24,5 +24,5 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.google.android.support:wearable:1.2.0'
-    compile 'com.google.android.gms:play-services-wearable:7.5.0'
+    compile 'com.google.android.gms:play-services-wearable:7.8.0'
 }
